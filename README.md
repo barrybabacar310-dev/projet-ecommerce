@@ -1,6 +1,3 @@
-README.md` :
-
-```markdown
 # Analyse de Phrase - Algorithme
 
 ## Description
@@ -74,15 +71,3 @@ Début
     Afficher "Nombre de mots : " + nombre_mots
     Afficher "Nombre de voyelles : " + nombre_voyelles
 Fin
-```
-
-## Explication du Pseudocode
-
-1. **Initialisation** : Avant de commencer à lire la phrase, l'algorithme initialise les compteurs à zéro.
-2. **Lecture des caractères** : L'algorithme lit chaque caractère de la phrase et fait des vérifications sur chaque caractère (s'il est une voyelle, un espace ou un point).
-3. **Comptage des voyelles** : Si le caractère est une voyelle, le compteur `nombre_voyelles` est incrémenté.
-4. **Comptage des mots** : L'algorithme reconnaît un mot lorsqu'il rencontre un espace ou à la fin de la phrase.
-5. **Affichage des résultats** : Après la lecture de la phrase, l'algorithme affiche la longueur totale, le nombre de mots et le nombre de voyelles.
-
-
-
