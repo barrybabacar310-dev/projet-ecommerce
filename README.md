@@ -1,3 +1,6 @@
+ `README.md` :
+
+```markdown
 # Analyse de Phrase - Algorithme
 
 ## Description
